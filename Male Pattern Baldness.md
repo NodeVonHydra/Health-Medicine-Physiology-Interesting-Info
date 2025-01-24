@@ -12,5 +12,5 @@ The Wnt/β-Catenin signaling pathway: an overview
    
 ### Wnt/β-catenin pathway - Challenges and considerations   
 Although activation of the Wnt/β-catenin pathway is promising for the treatment of hair loss, it is also associated with challenges. Excessive activation of this pathway has been associated with some cancers because it can lead to uncontrolled cell proliferation.   
-## **2. Prostaglandins and Inflammation**   
+# **2. Prostaglandins and Inflammation**   
    
