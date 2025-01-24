@@ -1,4 +1,4 @@
-# Stres a úzkosť   
+# Stress and Anxiety
 - Sympathetic chain changlia - a group of neurons running from the neck to below the navel   
     - Virtually immediately active when startled   
     - When this happens, these neurons release acetylcholine in various places in the body   
