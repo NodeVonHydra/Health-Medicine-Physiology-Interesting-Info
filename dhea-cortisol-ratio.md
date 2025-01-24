@@ -1,0 +1,4 @@
+# DHEA/Cortisol ratio   
+The **DHEA (Dehydroepiandrosterone) to cortisol ratio** is a measure that indicates the balance between anabolic (building up) and catabolic (breaking down) processes in the body. DHEA and cortisol are both hormones produced by the adrenal glands, but they have opposite effects on many bodily processes:   
+- **Cortisol** is often called the “stress hormone” because it plays a major role in the body’s response to stress. It has catabolic properties, meaning it breaks down tissues, especially in prolonged stress situations. High cortisol levels over time can lead to muscle loss, reduced immune function, and increased fat storage.   
+- **DHEA** is an anabolic hormone, serving as a precursor to testosterone and estrogen. It supports muscle building, immune function, and has anti-inflammatory effects.   
