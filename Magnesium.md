@@ -1,4 +1,4 @@
-# Magnézium   
+# Magnesium   
 - it is a cation   
 - NMDA antagonist and GABA agonist   
 - it is mostly consumed by bones   
