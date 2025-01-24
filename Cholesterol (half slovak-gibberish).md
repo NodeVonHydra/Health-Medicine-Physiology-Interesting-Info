@@ -1,4 +1,4 @@
-# chole   
+# Cholesterol
 - proteín ktorý môžeme násjť na chilomirkónoch, v chilomikrón remnantoch, VLDL a ILDL   
 - ApoE slúži ako ligand (molekula, ktorá sa viaže na receptor), ktorý je rozpoznávaný špecifickými receptormi na pečeňových bunkách, ako je LDL receptor (LDLR) a LDL receptor-related protein 1 (LRP1)   
 - ApoE je hlavný ligand pre čistenie častíc ApoB   
