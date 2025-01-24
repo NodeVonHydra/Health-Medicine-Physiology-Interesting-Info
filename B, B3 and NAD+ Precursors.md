@@ -46,7 +46,7 @@ Vitamin B12 (Cobalamin):
 - Methylcobalamin (MeCbl)   
 - Adenosylcobalamin (AdCbl   
    
-**Formy B3**   
+**Forms of B3**   
 1. **Niacin (Nicotinic Acid)**: This is the most common form of Vitamin B3. It's a water-soluble vitamin that's found in many foods, including meat, fish, and whole grains.   
 2. **Nicotinamide (NAM**): This form of Vitamin B3 is also known as Niacinamide. It's similar to Niacin, but it has a slightly different chemical structure. Nicotinamide is often used in supplements and is considered to be a more gentle form of Vitamin B3.   
 3. **Nicotinamide Riboside (NR)**: This is a riboside form of Nicotinamide, which means it's attached to a ribose sugar molecule. NR is a more recent form of Vitamin B3 that's been shown to have a number of health benefits, including increasing NAD+ levels.   
@@ -58,6 +58,5 @@ Vitamin B12 (Cobalamin):
 - Niacin (Vitamin B3) - converted to NMN   
 - Nicotinamide (NAM) - not as effective as NMN or NR in increasing NAD+ levels   
 - NA (Nicotinic Acid)   
-- Niacin   
-   
-•⁃Tryptophan   
+- Niacin
+- Tryptophan   
