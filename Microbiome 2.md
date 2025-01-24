@@ -1,4 +1,4 @@
-# Mikrobióm 2   
+# Microbiome 2  
 ## Enteroendocrine cells   
    
 Enteroendocrine cells (EECs) are specialized cells found in the lining of the gastrointestinal (GI) tract. They play a key role in sensing nutrients and other substances in the gut and responding by releasing hormones and other signaling molecules.    
