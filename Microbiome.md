@@ -1,4 +1,4 @@
-# Mikrobióm   
+# Microbiome  
 ## Gut works independently of the central nervous system (CNS)   
    
 - it has its own nervous system called the **enteric nervous system (ENS)**, which is often referred to as the “second brain”   
