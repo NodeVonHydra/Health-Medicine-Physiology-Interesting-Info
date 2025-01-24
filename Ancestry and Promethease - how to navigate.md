@@ -1,4 +1,4 @@
-# Ancestry a Promethease   
+# Ancestry and Promethease   
 *How to use it:*   
 - Peter pulled up Prometheus on his computer to give listeners a sense of what he does with it   
 - He will first look at results with a negative connotation   
