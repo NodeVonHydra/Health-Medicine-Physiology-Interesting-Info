@@ -49,6 +49,7 @@ This experiment built on earlier work showing that REM sleep brain activity (hig
 Interesting info: When somebody walks from sleep, talks from sleep, or even eats from sleep, it's not REM sleep, it's deep sleep.   
 So when you wake somebody up from the sleep, it's just a dream, then you are waking the person up directly from the deep non-REM sleep.   
 ## Lucid dreaming and communication   
+
 There’s solid scientific evidence supporting the idea that actions performed in lucid dreams, such as moving a hand, can be detected in the physical body, particularly through **eye movements** and, to a lesser extent, subtle muscle activity, despite REM sleep’s characteristic muscle atonia. This phenomenon has been studied extensively in lucid dreaming research, particularly by pioneers like Stephen LaBerge, and ties into your interest in REM sleep, PGO waves, and dream science.   
  --- 
 ### Truth About Measuring Dream Actions in Lucid Dreamers   
