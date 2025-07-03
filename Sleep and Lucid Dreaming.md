@@ -1,14 +1,4 @@
 ---
-# yaml-language-server: $schema=schemas/page.schema.json
-Object type:
-    - Page
-Backlinks:
-    - Biohack
-Creation date: "2025-07-03T09:32:17Z"
-Created by:
-    - Note
-id: bafyreig6hg3ggbdqtlknidisajcf5mgi6vmthydos6bkgtlx6dwqjtyfdu
----
 # Sleep and Lucid Dreaming   
 ### 1. Eye Movements and Dreams   
 **Association with REM Sleep**:   
