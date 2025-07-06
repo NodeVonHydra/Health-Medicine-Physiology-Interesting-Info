@@ -1,14 +1,3 @@
----
-# yaml-language-server: $schema=schemas/page.schema.json
-Object type:
-    - Page
-Backlinks:
-    - Biohack
-Creation date: "2025-07-06T15:47:13Z"
-Created by:
-    - Note
-id: bafyreieajqffmjb2vojeh6hg6h6ci5qb5m4xsru4of7tulxfmhqnl5tcti
----
 # Cheap and Anonymous Genome Sequencing Guide    
 This guide explains how to **cheaply and anonymously** obtain and analyze your genome sequence. It’s designed mostly for Central Europeans (e.g., Czech Republic, Slovakia) who value privacy and want to explore health-related genetic data.   
 ## Step 1: Order AncestryDNA Kit Anonymously   
