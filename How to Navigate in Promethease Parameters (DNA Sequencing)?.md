@@ -1,5 +1,4 @@
 # How to navigate in Promethease parameters (DNA sequencing)?   
-# Guide to Navigating Promethease Parameters   
 Promethease is a tool that analyzes genetic data to provide insights into health, traits, and ancestry based on SNP (Single Nucleotide Polymorphism) data. Below is a guide to understanding and navigating key parameters in Promethease reports:   
 - **Magnitude**:   
     - **Definition**: A subjective measure of the significance or interest of a genetic variant, ranging from 0 to 10.   
