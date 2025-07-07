@@ -33,7 +33,7 @@ Upload your raw DNA data to either **Promethease** or **FoundMyFitness** for hea
 - **Pros**:   
     - Comprehensive: Analyzes 19,000+ SNPs, including health and traits.   
     - Privacy-friendly: Short data retention (24 hours for raw data, 45 days for report).   
-    - Geeky: Ideal for biohackers who enjoy digging into raw data (in [this Git file](https://github.com/NodeVonHydra/Health-Medicine-Physiology-Interesting-Info/blob/main/Ancestry%20and%20Promethease%20-%20how%20to%20navigate.md) I describe in detail how to navigate Promethease and how to filter individual parameters).   
+    - Geeky: Ideal for biohackers who enjoy digging into raw data (in [this Git file](https://github.com/NodeVonHydra/Health-Medicine-Physiology-Interesting-Info/blob/main/How%20to%20Navigate%20in%20Promethease%20Parameters%20(DNA%20Sequencing)%3F.md) I describe in detail how to navigate Promethease and how to filter individual parameters).   
 - **Cons**:   
     - Technical and overwhelming: Reports are raw, with no medical advice. Requires filtering (e.g., Magnitude >3, ClinVar) to find relevant SNPs.   
     - No direct health recommendations; you must research SNPs yourself.   
