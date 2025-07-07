@@ -1,14 +1,3 @@
----
-# yaml-language-server: $schema=schemas/page.schema.json
-Object type:
-    - Page
-Backlinks:
-    - Biohack
-Creation date: "2025-07-07T16:49:36Z"
-Created by:
-    - Note
-id: bafyreihxihctprk5gicgqa6wgs3uqyitncofuxuywif64iwb6adlq47ofa
----
 # How to navigate in Promethease parameters (DNA sequencing)?   
 # Guide to Navigating Promethease Parameters   
 Promethease is a tool that analyzes genetic data to provide insights into health, traits, and ancestry based on SNP (Single Nucleotide Polymorphism) data. Below is a guide to understanding and navigating key parameters in Promethease reports:   
